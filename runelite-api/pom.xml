@@ -29,7 +29,7 @@
 	<parent>
 		<groupId>net.runelite</groupId>
 		<artifactId>runelite-parent</artifactId>
-		<version>1.8.35-SNAPSHOT</version>
+		<version>1.9.1-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>runelite-api</artifactId>
@@ -110,6 +110,7 @@
 								<exclude>net/runelite/api/HintArrowType.class</exclude>
 								<exclude>net/runelite/api/HitsplatID.class</exclude>
 								<exclude>net/runelite/api/ItemID.class</exclude>
+								<exclude>net/runelite/api/KeyCode.class</exclude>
 								<exclude>net/runelite/api/NpcID.class</exclude>
 								<exclude>net/runelite/api/NullItemID.class</exclude>
 								<exclude>net/runelite/api/NullNpcID.class</exclude>
